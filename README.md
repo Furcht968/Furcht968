@@ -15,4 +15,4 @@ Mia nomo estas Furcht968.
 
 ## Lingve
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Furcht968$theme=gotham)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Furcht968&theme=gotham)
