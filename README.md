@@ -2,8 +2,8 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Furcht968&count_private=true&theme=gotham)
 
-Saluton!
-Mia nomo estas Furcht968
+Saluton!  
+Mia nomo estas Furcht968.  
 Ĉu vi estas programisto?
 
 
@@ -15,4 +15,4 @@ Mia nomo estas Furcht968
 
 ## Lingve
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Furcht968)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Furcht968$theme=gotham)
