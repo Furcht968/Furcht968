@@ -2,9 +2,9 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Furcht968&count_private=true&theme=gotham)
 
-Saluton!
-Mi estas Furcht968!
-Ĉu vi estas Porgramisto?
+Saluton!  
+Mi estas Furcht968!  
+Ĉu vi estas Porgramisto?  
 
 
 ## mia alia servo.
